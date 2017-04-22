@@ -1,0 +1,45 @@
+C,K_features,clf,kernel,precision,recall
+10.0,8,"SVC(C=10, cache_size=200, class_weight='balanced', coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)",linear,0.354314420804,0.5995
+20.0,8,"SVC(C=20, cache_size=200, class_weight='balanced', coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)",linear,0.368421052632,0.602
+20.0,9,"SVC(C=20, cache_size=200, class_weight='balanced', coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)",linear,0.358047016275,0.594
+20.0,10,"SVC(C=20, cache_size=200, class_weight='balanced', coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)",linear,0.358208955224,0.6
+20.0,11,"SVC(C=20, cache_size=200, class_weight='balanced', coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)",linear,0.350702576112,0.599
+20.0,12,"SVC(C=20, cache_size=200, class_weight='balanced', coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)",linear,0.352734717754,0.603
+50.0,8,"SVC(C=50, cache_size=200, class_weight='balanced', coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)",linear,0.374765184721,0.5985
+50.0,9,"SVC(C=50, cache_size=200, class_weight='balanced', coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)",linear,0.364466078491,0.599
+50.0,10,"SVC(C=50, cache_size=200, class_weight='balanced', coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)",linear,0.362601138747,0.605
+50.0,11,"SVC(C=50, cache_size=200, class_weight='balanced', coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)",linear,0.363797169811,0.617
+50.0,12,"SVC(C=50, cache_size=200, class_weight='balanced', coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)",linear,0.365140324963,0.618
